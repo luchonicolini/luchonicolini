@@ -1,7 +1,7 @@
 ### iOS Developer | Swift 
 ![wwdc22-swiftui-narrow](https://github.com/luchonicolini/luchonicolini/assets/20882895/da5fbf81-2fc4-4f1f-b1b0-f9adae4aba99)
 
-<h2 align="center"> iOS App Development with SwiftUI: Explore my repository showcasing a collection of iOS applications built using SwiftUI, the modern and intuitive framework for creating engaging user interfaces and powerful app experiences. </h2>
+<h3 align="center"> iOS App Development with SwiftUI: Explore my repository showcasing a collection of iOS applications built using SwiftUI, the modern and intuitive framework for creating engaging user interfaces and powerful app experiences. </h3>
 
 <img width="350" alt="Captura de pantalla 2023-08-01 a la(s) 13 36 33" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/85ee55c9-3a48-4e98-9083-2f1bebd0881f">
 <img width="350" alt="Captura de pantalla 2023-08-02 a la(s) 17 17 15" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/8a4121dd-2548-4736-84f4-135738de10d3">
