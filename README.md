@@ -8,6 +8,3 @@
 <img width="350" alt="Captura de pantalla 2023-08-02 a la(s) 17 35 16" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/caa0fbae-b729-41cd-b00d-233802c1ac9b">
 <img width="350" alt="Captura de pantalla 2023-08-22 a la(s) 17 20 47" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/a303ad94-85a1-4b7a-9cf2-7a4eec07b50d">
 <img width="350" alt="Captura de pantalla 2023-09-21 a la(s) 15 34 26" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/100ced75-3a9b-49fb-92f3-67da74e0a73c">
-<img width="350" alt="Captura de pantalla 2024-05-27 a la(s) 7 57 41 p  m" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/c41b09d6-3794-41e9-b105-cb831bc3d800">
-<img width="350" alt="Captura de pantalla 2024-05-27 a la(s) 7 58 36 p  m" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/0b871b14-ebe8-497f-91a3-5fc4278ce6b6">
-<img width="350" alt="Captura de pantalla 2024-05-27 a la(s) 8 01 40 p  m" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/5e72c866-1834-4c20-8ff2-0b101efec1b5">
