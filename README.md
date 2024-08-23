@@ -1,4 +1,4 @@
-<img width="481" alt="Captura de pantalla 2024-08-22 a la(s) 9 44 14 p  m" src="https://github.com/user-attachments/assets/82fde920-b803-4a40-836b-b6816c2ba00d">### iOS Developer | Swift 
+### iOS Developer | Swift 
 ![wwdc22-swiftui-narrow](https://github.com/luchonicolini/luchonicolini/assets/20882895/da5fbf81-2fc4-4f1f-b1b0-f9adae4aba99)
 
 <h3 align="center"> iOS App Development with SwiftUI: Explore my repository showcasing a collection of iOS applications built using SwiftUI, the modern and intuitive framework for creating engaging user interfaces and powerful app experiences. </h3>
