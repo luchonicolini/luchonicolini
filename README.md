@@ -18,16 +18,10 @@
 
 ---
 ### 🌟 Featured Projects:
-<div align="center">
-  <a href="https://github.com/luchonicolini/project1">
-    <img width="300" alt="Project 1 Screenshot" src="https://github.com/user-attachments/assets/355f7c29-6eee-4e48-89b1-378bdc6b1d0a">
-    <p>Project 1: Brief description here</p>
-  </a>
-  <a href="https://github.com/luchonicolini/project2">
-    <img width="300" alt="Project 2 Screenshot" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/8a4121dd-2548-4736-84f4-135738de10d3">
-    <p>Project 2: Brief description here</p>
-  </a>
-</div>
+
+<img width="300" alt="Captura de pantalla 2024-08-22 a la(s) 9 44 14 p  m" src="https://github.com/user-attachments/assets/355f7c29-6eee-4e48-89b1-378bdc6b1d0a">
+<img width="300" alt="Captura de pantalla 2023-08-01 a la(s) 13 36 33" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/85ee55c9-3a48-4e98-9083-2f1bebd0881f">
+
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
