@@ -13,7 +13,7 @@
 
 ### 🛠️ Technologies & Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,figma,firebase,html,css,js,linux,git,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=swift,figma,firebase,html,css,js,linux,git,github" alt="Skills" />
 </p>
 
 ---
