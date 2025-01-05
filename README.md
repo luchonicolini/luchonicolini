@@ -18,13 +18,11 @@
 
 ---
 
-### 📫 How to reach me:
-<p align="left">
-  <a href="mailto:nicolini.luciano@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-</p>
----
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
 
 
 
