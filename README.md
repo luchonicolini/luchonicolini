@@ -13,16 +13,13 @@
 
 ### 🛠️ Technologies & Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,html,xcode,figma,firebase,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,figma,firebase,html,css,js,linux,git,github" alt="Skills" />
 </p>
 
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: [your-email@example.com](nicolini.luciano@hotmail.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/luchonicolini)
-
-
+- 📧 Email: [nicolini.luciano@hotmail.com](nicolini.luciano@hotmail.com)
 ---
 
 
