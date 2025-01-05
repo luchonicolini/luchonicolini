@@ -1,21 +1,34 @@
 ### iOS Developer | Swift 
 
-```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
-```
+struct DeveloperProfile {
+    let name: String
+    let username: String
+    let location: String
+    let twitter: String
+    let portfolio: String
+    
+    func introduce() -> String {
+        """
+        Hi, I'm \(name)! 👋
+        iOS Developer based in \(location).
+        Connect with me on Twitter (\(twitter)) or check out my work at \(portfolio).
+        """
+    }
+}
+
+// Create your profile
+let me = DeveloperProfile(
+    name: "Your Name",
+    username: "YourUsername",
+    location: "Your City, Country",
+    twitter: "@YourTwitterHandle",
+    portfolio: "https://yourportfolio.dev"
+)
+
+// Show introduction
+print(me.introduce())
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
