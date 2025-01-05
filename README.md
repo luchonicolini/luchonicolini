@@ -11,3 +11,8 @@
 <img width="350" alt="Captura de pantalla 2023-09-21 a la(s) 15 34 26" src="https://github.com/luchonicolini/luchonicolini/assets/20882895/100ced75-3a9b-49fb-92f3-67da74e0a73c">
 <img width="350" alt="Captura de pantalla 2024-08-22 a la(s) 7 26 51 p  m" src="https://github.com/user-attachments/assets/8b1f6d7d-947f-490a-b3ea-30a692a83a35">
 
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
