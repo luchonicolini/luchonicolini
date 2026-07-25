@@ -1,5 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0A84FF,100:6E40C9&text=Luciano%20Nicolini&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer&descAlignY=58&animation=fadeIn" alt="Luciano Nicolini — Mobile & Web Developer">
+  <h1>Luciano Nicolini</h1>
+  <h3>Mobile & Web Developer</h3>
+
+  <p><strong>iOS · Swift · SwiftUI · Flutter · TypeScript · Next.js</strong></p>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=650&lines=iOS+Developer+%7C+Swift+%26+SwiftUI;Mobile+Developer+%7C+Flutter+%26+Dart;Web+Developer+%7C+TypeScript+%26+Next.js;Construyendo+productos+claros+y+escalables" alt="Especialidades de Luciano Nicolini">
@@ -81,5 +84,3 @@ Estoy disponible para colaborar en aplicaciones iOS, productos mobile y experien
     <img src="https://img.shields.io/badge/nicolini.luciano1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email a Luciano Nicolini">
   </a>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6E40C9,50:0A84FF,100:0D1117&section=footer" alt="">
