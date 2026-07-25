@@ -72,17 +72,6 @@
 | [**Scriptor Digital**](https://github.com/luchonicolini/scriptor-digital) | Sitio institucional y captación de consultas para servicios digitales. | Next.js, TypeScript, React, Zod, Vercel |
 | [**SwiftUI SignUp**](https://github.com/luchonicolini/SwiftUI_SignUp) | Prototipo visual de registro con componentes reutilizables. | Swift, SwiftUI, UIKit |
 
-## 📊 Actividad
-
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luchonicolini&theme=github_dark" alt="Resumen de actividad de GitHub">
-  <br>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luchonicolini&theme=github_dark" alt="Repositorios por lenguaje">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luchonicolini&theme=github_dark" alt="Estadísticas del perfil">
-  <br>
-  <img width="70%" src="https://streak-stats.demolab.com?user=luchonicolini&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones">
-</div>
-
 ## 🤝 Contacto
 
 Estoy disponible para colaborar en aplicaciones iOS, productos mobile y experiencias web.
