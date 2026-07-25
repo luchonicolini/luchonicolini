@@ -1,53 +1,96 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/10ae5137-bf7a-418d-bb95-d7bf513402a8" width="100%" alt="Luciano Nicolini — iOS Developer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0A84FF,100:6E40C9&text=Luciano%20Nicolini&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer&descAlignY=58&animation=fadeIn" alt="Luciano Nicolini — Mobile & Web Developer">
 
-  # Hola, soy Luciano Nicolini 👋
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=650&lines=iOS+Developer+%7C+Swift+%26+SwiftUI;Mobile+Developer+%7C+Flutter+%26+Dart;Web+Developer+%7C+TypeScript+%26+Next.js;Construyendo+productos+claros+y+escalables" alt="Especialidades de Luciano Nicolini">
+  </a>
 
-  ### iOS Developer · Swift · SwiftUI
+  <p>
+    Desarrollador de software de Argentina con foco principal en aplicaciones nativas para iOS.<br>
+    Trabajo con Swift desde 2018 y complemento mi experiencia mobile con Flutter y tecnologías web modernas.
+  </p>
 
-  Desarrollador de software de Argentina, especializado en crear aplicaciones nativas para el ecosistema Apple. Trabajo con Swift desde 2018 y disfruto transformar ideas en productos claros, modernos y fáciles de usar.
-
-  [![GitHub](https://img.shields.io/badge/GitHub-luchonicolini-181717?style=for-the-badge&logo=github)](https://github.com/luchonicolini)
-  [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolini.luciano@hotmail.com)
+  <p>
+    <a href="mailto:nicolini.luciano@hotmail.com">
+      <img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/luchonicolini?tab=repositories">
+      <img src="https://img.shields.io/badge/GitHub-Proyectos-181717?style=for-the-badge&logo=github" alt="Repositorios de GitHub">
+    </a>
+  </p>
 </div>
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-- 📱 Desarrollo aplicaciones para iOS con **Swift, SwiftUI y UIKit**.
-- 🧩 Me interesa crear interfaces reutilizables y arquitecturas fáciles de mantener.
-- 💾 Trabajo con persistencia local, consumo de APIs e integración de servicios.
-- 🌐 También desarrollo productos web con **TypeScript, React y Next.js**.
-- 🚀 Actualmente construyo proyectos propios para ampliar mi portafolio.
+- 📱 Desarrollo aplicaciones para **iOS** con Swift, SwiftUI y UIKit.
+- 🧱 Aplico patrones como **MVVM** y separaciones por funcionalidades.
+- 💾 Trabajo con persistencia local mediante SwiftData y Core Data.
+- 🌐 Construyo productos web con TypeScript, React y Next.js.
+- 🐦 También desarrollo aplicaciones multiplataforma con Flutter.
+- 🎨 Me interesa combinar una base técnica sólida con interfaces cuidadas y accesibles.
+- 🚀 Actualmente desarrollo proyectos propios y amplío mi portafolio profesional.
 
-## Tecnologías
+## 🛠️ Tecnologías y herramientas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,figma,firebase,ts,react,nextjs,html,css,git,github" alt="Swift, Figma, Firebase, TypeScript, React, Next.js, HTML, CSS, Git y GitHub">
-</div>
+### Apple y desarrollo mobile
 
-## Proyectos destacados
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit">
+  <img src="https://img.shields.io/badge/SwiftData-5E5CE6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData">
+  <img src="https://img.shields.io/badge/Core_Data-147EFB?style=for-the-badge&logo=apple&logoColor=white" alt="Core Data">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+</p>
 
-| Proyecto | Descripción | Tecnologías |
+### Web y backend
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+</p>
+
+### Flujo de trabajo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,html,css,js" alt="Git, GitHub, Figma, Visual Studio Code, HTML, CSS y JavaScript">
+</p>
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Enfoque | Stack principal |
 | --- | --- | --- |
-| [**StitchHub**](https://github.com/luchonicolini/StitchHub) | Galería comunitaria de estilo neo-brutalista para compartir diseños de interfaz, prompts y código. | TypeScript, Next.js, React, Tailwind CSS |
-| [**Gastos Compartidos**](https://github.com/luchonicolini/Gastos-Compartidos) | Aplicación iOS que registra gastos grupales, divide importes y calcula automáticamente los balances entre integrantes. | Swift, SwiftUI, SwiftData, MVVM |
-| [**SwiftUI SignUp**](https://github.com/luchonicolini/SwiftUI_SignUp) | Prototipo de una pantalla de registro moderna con gradientes, glassmorphism y componentes reutilizables. | Swift, SwiftUI, UIKit |
-| [**Scriptor Digital**](https://github.com/luchonicolini/scriptor-digital) | Sitio institucional para servicios de orientación académica y desarrollo de soluciones digitales. | TypeScript, Next.js, React |
+| [**StitchHub**](https://github.com/luchonicolini/StitchHub) | Plataforma comunitaria para compartir diseños, prompts y código. | Next.js, React, TypeScript, Supabase, Tailwind CSS |
+| [**Gastos Compartidos**](https://github.com/luchonicolini/Gastos-Compartidos) | Gestión de gastos, balances y liquidaciones entre grupos. | Swift, SwiftUI, SwiftData, MVVM |
+| [**Scriptor Digital**](https://github.com/luchonicolini/scriptor-digital) | Sitio institucional y captación de consultas para servicios digitales. | Next.js, TypeScript, React, Zod, Vercel |
+| [**SwiftUI SignUp**](https://github.com/luchonicolini/SwiftUI_SignUp) | Prototipo visual de registro con componentes reutilizables. | Swift, SwiftUI, UIKit |
 
-## Actividad en GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luchonicolini&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub de Luciano Nicolini">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchonicolini&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Lenguajes más utilizados por Luciano Nicolini">
-</div>
-
-## Contacto
-
-Estoy abierto a colaborar en proyectos de iOS, productos digitales y nuevas oportunidades profesionales.
-
-- **Email:** [nicolini.luciano@hotmail.com](mailto:nicolini.luciano@hotmail.com)
-- **GitHub:** [github.com/luchonicolini](https://github.com/luchonicolini)
+## 📊 Actividad
 
 <div align="center">
-  <sub>Gracias por visitar mi perfil.</sub>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luchonicolini&theme=github_dark" alt="Resumen de actividad de GitHub">
+  <br>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luchonicolini&theme=github_dark" alt="Repositorios por lenguaje">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luchonicolini&theme=github_dark" alt="Estadísticas del perfil">
+  <br>
+  <img width="70%" src="https://streak-stats.demolab.com?user=luchonicolini&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones">
 </div>
+
+## 🤝 Contacto
+
+Estoy disponible para colaborar en aplicaciones iOS, productos mobile y experiencias web.
+
+<div align="center">
+  <a href="mailto:nicolini.luciano@hotmail.com">
+    <img src="https://img.shields.io/badge/nicolini.luciano%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email a Luciano Nicolini">
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6E40C9,50:0A84FF,100:0D1117&section=footer" alt="">
