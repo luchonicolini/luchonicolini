@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="mailto:nicolini.luciano@hotmail.com">
+    <a href="mailto:nicolini.luciano1@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://github.com/luchonicolini?tab=repositories">
@@ -77,8 +77,8 @@
 Estoy disponible para colaborar en aplicaciones iOS, productos mobile y experiencias web.
 
 <div align="center">
-  <a href="mailto:nicolini.luciano@hotmail.com">
-    <img src="https://img.shields.io/badge/nicolini.luciano%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email a Luciano Nicolini">
+  <a href="mailto:nicolini.luciano1@gmail.com">
+    <img src="https://img.shields.io/badge/nicolini.luciano1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email a Luciano Nicolini">
   </a>
 </div>
 
