@@ -16,7 +16,9 @@ Tengo mi propio negocio, **[Nicolini Design](https://nicolini-design.vercel.app/
 
 ---
 
-## Lo que estoy construyendo
+## Apps y proyectos
+
+**[DolarToApp](https://github.com/luchonicolini/DolarToApp)** es mi app iOS publicada en App Store para consultar cotizaciones del dólar en Argentina. Está desarrollada con SwiftUI y consume DolarAPI. La destaco porque forma parte de mi experiencia llevando una aplicación a la tienda.
 
 **Puente** nace de una necesidad concreta: ayudar a chicos sordos o con dificultades auditivas a comunicarse con otras personas en situaciones cotidianas. Estoy trabajando en una app que combina texto, mensajes en pantalla y servicios de voz, con el objetivo de darles más autonomía. Está en desarrollo; la parte de IA sigue en modo demostración.
 
@@ -28,12 +30,12 @@ Tengo mi propio negocio, **[Nicolini Design](https://nicolini-design.vercel.app/
 
 | Proyecto | Qué vas a encontrar | Stack | Ver |
 | --- | --- | --- | --- |
+| [DolarToApp](https://github.com/luchonicolini/DolarToApp) | App iOS publicada en App Store para consultar cotizaciones del dólar en Argentina. | SwiftUI · URLSession · Combine · DolarAPI | [COMPLETAR: enlace a DolarToApp en App Store] |
 | [Gastos Compartidos · iOS](https://github.com/luchonicolini/Gastos-Compartidos) | Grupos, gastos, balances y liquidaciones. MVVM y tests de lógica. | SwiftUI · SwiftData · XCTest | [COMPLETAR: enlace de publicación iOS si existe] |
 | [Gastos Compartidos · Flutter](https://github.com/luchonicolini/Gastos-Compartidos-Flutter) | Multimoneda, dinero en centavos y datos locales. | Flutter · Dart · Drift | [COMPLETAR: enlace de publicación Android si existe] |
 | [StitchHub](https://github.com/luchonicolini/StitchHub) | Galería de diseños, perfiles y publicación autenticada. | Next.js · TypeScript · Supabase | [Demo](https://stitch-hub-one.vercel.app) |
 | [Puente](https://github.com/luchonicolini/Puente_Flutter) | Comunicación accesible por texto y servicios de voz. | Flutter · Dart · STT/TTS | [COMPLETAR: demo instalable o publicación de Puente si existe] |
 | [Scriptor Digital](https://github.com/luchonicolini/scriptor-digital) | Sitio de servicios con formularios validados en cliente y servidor. | Next.js · TypeScript · Zod | [Web](https://scriptordigital.vercel.app/) |
-| [SwiftUI Sign Up](https://github.com/luchonicolini/SwiftUI_SignUp) | Ejercicio de interfaz con componentes reutilizables. | SwiftUI · UIKit | [Capturas](https://github.com/luchonicolini/SwiftUI_SignUp#capturas) |
 
 ## Nicolini Design
 
