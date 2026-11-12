@@ -5,13 +5,13 @@
 Desarrollador de Argentina con foco en aplicaciones iOS y experiencia full stack en proyectos con Next.js y Supabase.
 Construyo productos mobile con SwiftUI y Flutter, con atención a la persistencia, las reglas de negocio y la claridad de la interfaz.
 
-[Contacto por email](mailto:nicolini.luciano1@gmail.com) · [Repositorios](https://github.com/luchonicolini?tab=repositories)
+[Nicolini Design · Mi negocio](https://nicolini-design.vercel.app/) · [Contacto por email](mailto:nicolini.luciano1@gmail.com) · [Repositorios](https://github.com/luchonicolini?tab=repositories)
 
 ## About me
 
-I am an iOS developer based in Argentina, focused on Swift and SwiftUI.
-I also build Flutter apps and full-stack projects with Next.js and Supabase.
-My projects explore shared expenses, accessible communication and community-driven interfaces.
+I am an iOS developer based in Argentina, focused on Swift and SwiftUI.  
+I also build Flutter apps and full-stack projects with Next.js and Supabase.  
+I run Nicolini Design, my business offering websites, mobile apps and custom digital solutions.  
 I value clear architecture, testable business rules and thoughtful user experiences.
 
 ## En qué trabajo
@@ -20,6 +20,16 @@ I value clear architecture, testable business rules and thoughtful user experien
 - **Mobile multiplataforma:** Flutter y Dart; separación entre interfaz, dominio y datos.
 - **Full stack:** TypeScript, React, Next.js y Supabase.
 - **Calidad:** pruebas de reglas de negocio, revisión de cambios mediante PR y automatización de compilación y tests.
+
+## Nicolini Design · Mi negocio
+
+Desarrollo mi actividad independiente a través de **Nicolini Design**, mi negocio de diseño y desarrollo de sitios web, aplicaciones y soluciones digitales a medida.
+
+La web presenta servicios de landing pages, sitios multipágina, tiendas online y sistemas con funciones como turnos, usuarios y paneles de gestión. La propuesta pone el foco en definir el alcance antes de empezar, presentar una versión navegable y acompañar la publicación.
+
+El sitio comercial está construido con **Next.js, React, TypeScript y Tailwind CSS**. Incluye una presentación de servicios, trabajos publicados y un laboratorio de demos identificado por separado, junto con vías de consulta y presupuesto.
+
+[Visitar Nicolini Design](https://nicolini-design.vercel.app/) · [Ver repositorio](https://github.com/luchonicolini/Nicolini-Design)
 
 ## Proyectos destacados
 
@@ -36,6 +46,10 @@ Los README de cada proyecto explican su ejecución, arquitectura, alcance actual
 Los proyectos en desarrollo y los prototipos se identifican como tales.
 
 ## Experiencia
+
+### Nicolini Design · Emprendimiento propio
+
+Diseño y desarrollo de sitios web, aplicaciones y soluciones digitales a medida. Mi actividad combina definición del alcance, desarrollo y presentación de propuestas para negocios.
 
 [COMPLETAR: experiencia previa o trabajos con clientes]
 
