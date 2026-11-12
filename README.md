@@ -1,59 +1,72 @@
-# Luciano Nicolini
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/header-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile/header-light.gif">
+  <img alt="Luciano Nicolini. iOS Developer, Swift y SwiftUI. Buenos Aires. Mobile y full stack." src="assets/profile/header-light.gif" width="1200">
+</picture>
 
-### iOS Developer (Swift, SwiftUI) · Full Stack (Next.js, Supabase)
+<sub>[Ver cabecera sin animación](assets/profile/header-dark.png)</sub>
 
-Desarrollador de Argentina con foco en aplicaciones iOS y experiencia full stack en proyectos con Next.js y Supabase.
-Construyo productos mobile con SwiftUI y Flutter, con atención a la persistencia, las reglas de negocio y la claridad de la interfaz.
+### Hola, soy Luciano.
 
-[Nicolini Design · Mi negocio](https://nicolini-design.vercel.app/) · [Contacto por email](mailto:nicolini.luciano1@gmail.com) · [Repositorios](https://github.com/luchonicolini?tab=repositories)
+Desarrollo apps para iOS con **Swift y SwiftUI**. También trabajo con Flutter y construyo webs y sistemas con Next.js y Supabase.
 
-## About me
+Tengo mi propio negocio, **[Nicolini Design](https://nicolini-design.vercel.app/)**. Ahí ofrezco desarrollo web, aplicaciones y soluciones a medida. En este perfil comparto tanto ese trabajo como los proyectos que estoy construyendo por mi cuenta.
 
-I am an iOS developer based in Argentina, focused on Swift and SwiftUI.  
-I also build Flutter apps and full-stack projects with Next.js and Supabase.  
-I run Nicolini Design, my business offering websites, mobile apps and custom digital solutions.  
-I value clear architecture, testable business rules and thoughtful user experiences.
+[Mi web](https://nicolini-design.vercel.app/) · [Escribime](mailto:nicolini.luciano1@gmail.com) · [Ver repositorios](https://github.com/luchonicolini?tab=repositories)
 
-## En qué trabajo
+---
 
-- **iOS nativo:** Swift, SwiftUI y UIKit; persistencia con SwiftData y Core Data.
-- **Mobile multiplataforma:** Flutter y Dart; separación entre interfaz, dominio y datos.
-- **Full stack:** TypeScript, React, Next.js y Supabase.
-- **Calidad:** pruebas de reglas de negocio, revisión de cambios mediante PR y automatización de compilación y tests.
+## Lo que estoy construyendo
 
-## Nicolini Design · Mi negocio
+**Puente** nace de una necesidad concreta: ayudar a chicos sordos o con dificultades auditivas a comunicarse con otras personas en situaciones cotidianas. Estoy trabajando en una app que combina texto, mensajes en pantalla y servicios de voz, con el objetivo de darles más autonomía. Está en desarrollo; la parte de IA sigue en modo demostración.
 
-Desarrollo mi actividad independiente a través de **Nicolini Design**, mi negocio de diseño y desarrollo de sitios web, aplicaciones y soluciones digitales a medida.
+**Gastos Compartidos** es mi forma de resolver las cuentas de un grupo: quién pagó, cuánto le corresponde a cada uno y cómo saldar las deudas. Tiene una versión nativa en SwiftUI y otra en Flutter, con persistencia local y pruebas sobre los cálculos.
 
-La web presenta servicios de landing pages, sitios multipágina, tiendas online y sistemas con funciones como turnos, usuarios y paneles de gestión. La propuesta pone el foco en definir el alcance antes de empezar, presentar una versión navegable y acompañar la publicación.
+**StitchHub** reúne diseños de interfaces con sus prompts y código. Es el proyecto donde trabajo el lado full stack: Next.js, Supabase, perfiles y publicación de contenido.
 
-El sitio comercial está construido con **Next.js, React, TypeScript y Tailwind CSS**. Incluye una presentación de servicios, trabajos publicados y un laboratorio de demos identificado por separado, junto con vías de consulta y presupuesto.
+## Proyectos para recorrer
 
-[Visitar Nicolini Design](https://nicolini-design.vercel.app/) · [Ver repositorio](https://github.com/luchonicolini/Nicolini-Design)
-
-## Proyectos destacados
-
-| Proyecto | Problema y decisiones técnicas | Stack | Demo o tienda |
+| Proyecto | Qué vas a encontrar | Stack | Ver |
 | --- | --- | --- | --- |
-| [Gastos Compartidos · iOS](https://github.com/luchonicolini/Gastos-Compartidos) | Gastos grupales, balances y liquidaciones; estado organizado con MVVM y persistencia local. | SwiftUI, SwiftData, XCTest | [COMPLETAR: enlace de publicación iOS si existe] |
-| [Gastos Compartidos · Flutter](https://github.com/luchonicolini/Gastos-Compartidos-Flutter) | Gastos multidivisa, dinero en centavos y repositorios locales; pruebas de dominio, datos y widgets. | Flutter, Dart, Drift/SQLite | [COMPLETAR: enlace de publicación Android si existe] |
-| [StitchHub](https://github.com/luchonicolini/StitchHub) | Diseños con prompts y código, perfiles y publicación autenticada; pruebas E2E y workflow de calidad. | Next.js, TypeScript, Supabase, Playwright | [Demo web](https://stitch-hub-one.vercel.app) |
-| [Puente](https://github.com/luchonicolini/Puente_Flutter) | App pensada para ayudar a chicos sordos o con dificultades auditivas a comunicarse con mayor autonomía en situaciones cotidianas. Texto, servicios de voz y pruebas con contratos desacoplados; IA en modo demostración. | Flutter, Dart, STT/TTS, flutter_test | [COMPLETAR: demo instalable o publicación de Puente si existe] |
-| [Scriptor Digital](https://github.com/luchonicolini/scriptor-digital) | Sitio institucional con recorridos de servicio y formularios validados en cliente y servidor. | Next.js, TypeScript, Zod, Resend | [Demo web](https://scriptordigital.vercel.app/) |
-| [SwiftUI Sign Up](https://github.com/luchonicolini/SwiftUI_SignUp) | Prototipo de UI con estado local, componentes reutilizables y desenfoque UIKit. | Swift, SwiftUI, UIKit | [Capturas](https://github.com/luchonicolini/SwiftUI_SignUp#capturas) |
+| [Gastos Compartidos · iOS](https://github.com/luchonicolini/Gastos-Compartidos) | Grupos, gastos, balances y liquidaciones. MVVM y tests de lógica. | SwiftUI · SwiftData · XCTest | [COMPLETAR: enlace de publicación iOS si existe] |
+| [Gastos Compartidos · Flutter](https://github.com/luchonicolini/Gastos-Compartidos-Flutter) | Multimoneda, dinero en centavos y datos locales. | Flutter · Dart · Drift | [COMPLETAR: enlace de publicación Android si existe] |
+| [StitchHub](https://github.com/luchonicolini/StitchHub) | Galería de diseños, perfiles y publicación autenticada. | Next.js · TypeScript · Supabase | [Demo](https://stitch-hub-one.vercel.app) |
+| [Puente](https://github.com/luchonicolini/Puente_Flutter) | Comunicación accesible por texto y servicios de voz. | Flutter · Dart · STT/TTS | [COMPLETAR: demo instalable o publicación de Puente si existe] |
+| [Scriptor Digital](https://github.com/luchonicolini/scriptor-digital) | Sitio de servicios con formularios validados en cliente y servidor. | Next.js · TypeScript · Zod | [Web](https://scriptordigital.vercel.app/) |
+| [SwiftUI Sign Up](https://github.com/luchonicolini/SwiftUI_SignUp) | Ejercicio de interfaz con componentes reutilizables. | SwiftUI · UIKit | [Capturas](https://github.com/luchonicolini/SwiftUI_SignUp#capturas) |
 
-Los README de cada proyecto explican su ejecución, arquitectura, alcance actual y próximos pasos.
-Los proyectos en desarrollo y los prototipos se identifican como tales.
+## Nicolini Design
+
+Mi negocio de diseño y desarrollo de webs, apps y soluciones digitales. La web presenta landing pages, sitios multipágina, tiendas online y sistemas a medida.
+
+Trabajo con una idea simple: dejar claro qué se va a construir antes de empezar y mostrar una versión navegable para revisarla. El sitio está hecho con **Next.js, React, TypeScript y Tailwind CSS**.
+
+[Visitar el sitio](https://nicolini-design.vercel.app/) · [Ver el código](https://github.com/luchonicolini/Nicolini-Design)
+
+## Mi caja de herramientas
+
+| iOS | Mobile | Web y backend | Pruebas |
+| --- | --- | --- | --- |
+| Swift · SwiftUI · UIKit | Flutter · Dart | TypeScript · React · Next.js | XCTest · flutter_test |
+| SwiftData · Core Data | Drift / SQLite | Supabase | Playwright · GitHub Actions |
 
 ## Experiencia
 
-### Nicolini Design · Emprendimiento propio
+**Nicolini Design · Emprendimiento propio**
 
-Diseño y desarrollo de sitios web, aplicaciones y soluciones digitales a medida. Mi actividad combina definición del alcance, desarrollo y presentación de propuestas para negocios.
+Diseño y desarrollo de sitios web, aplicaciones y soluciones digitales a medida.
 
 [COMPLETAR: experiencia previa o trabajos con clientes]
 
-## Contacto
+## A few words in English
 
-Para conversar sobre desarrollo iOS, aplicaciones mobile o proyectos web:
-[nicolini.luciano1@gmail.com](mailto:nicolini.luciano1@gmail.com).
+I'm Luciano, an iOS developer based in Buenos Aires, Argentina.
+I build apps with Swift and SwiftUI, and also work with Flutter, Next.js and Supabase.
+I run Nicolini Design, my web and app development business.
+Here you'll find my projects, their code and the decisions behind them.
+
+---
+
+¿Tenés una app o una web en mente? [Podemos hablar](mailto:nicolini.luciano1@gmail.com).
+
+<sub>iOS Developer (Swift, SwiftUI) · Full Stack (Next.js, Supabase)</sub>
