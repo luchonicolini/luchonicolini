@@ -1,86 +1,72 @@
-<div align="center">
-  <h1>Luciano Nicolini</h1>
-  <h3>Mobile & Web Developer</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/header-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile/header-light.gif">
+  <img alt="Luciano Nicolini. iOS Developer, Swift y SwiftUI. Buenos Aires. Mobile y full stack." src="assets/profile/header-light.gif" width="1200">
+</picture>
 
-  <p><strong>iOS · Swift · SwiftUI · Flutter · TypeScript · Next.js</strong></p>
+<sub>[Ver cabecera sin animación](assets/profile/header-dark.png)</sub>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=650&lines=iOS+Developer+%7C+Swift+%26+SwiftUI;Mobile+Developer+%7C+Flutter+%26+Dart;Web+Developer+%7C+TypeScript+%26+Next.js;Construyendo+productos+claros+y+escalables" alt="Especialidades de Luciano Nicolini">
-  </a>
+### Hola, soy Luciano.
 
-  <p>
-    Desarrollador de software de Argentina con foco principal en aplicaciones nativas para iOS.<br>
-    Trabajo con Swift desde 2018 y complemento mi experiencia mobile con Flutter y tecnologías web modernas.
-  </p>
+Desarrollo apps para iOS con **Swift y SwiftUI**. También trabajo con Flutter y construyo webs y sistemas con Next.js y Supabase.
 
-  <p>
-    <a href="mailto:nicolini.luciano1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/luchonicolini?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub-Proyectos-181717?style=for-the-badge&logo=github" alt="Repositorios de GitHub">
-    </a>
-  </p>
-</div>
+Tengo mi propio negocio, **[Nicolini Design](https://nicolini-design.vercel.app/)**. Ahí ofrezco desarrollo web, aplicaciones y soluciones a medida. En este perfil comparto tanto ese trabajo como los proyectos que estoy construyendo por mi cuenta.
 
-## 👨‍💻 Sobre mí
+[Mi web](https://nicolini-design.vercel.app/) · [Escribime](mailto:nicolini.luciano1@gmail.com) · [Ver repositorios](https://github.com/luchonicolini?tab=repositories)
 
-- 📱 Desarrollo aplicaciones para **iOS** con Swift, SwiftUI y UIKit.
-- 🧱 Aplico patrones como **MVVM** y separaciones por funcionalidades.
-- 💾 Trabajo con persistencia local mediante SwiftData y Core Data.
-- 🌐 Construyo productos web con TypeScript, React y Next.js.
-- 🐦 También desarrollo aplicaciones multiplataforma con Flutter.
-- 🎨 Me interesa combinar una base técnica sólida con interfaces cuidadas y accesibles.
-- 🚀 Actualmente desarrollo proyectos propios y amplío mi portafolio profesional.
+---
 
-## 🛠️ Tecnologías y herramientas
+## Lo que estoy construyendo
 
-### Apple y desarrollo mobile
+**Puente** nace de una necesidad concreta: ayudar a chicos sordos o con dificultades auditivas a comunicarse con otras personas en situaciones cotidianas. Estoy trabajando en una app que combina texto, mensajes en pantalla y servicios de voz, con el objetivo de darles más autonomía. Está en desarrollo; la parte de IA sigue en modo demostración.
 
-<p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit">
-  <img src="https://img.shields.io/badge/SwiftData-5E5CE6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData">
-  <img src="https://img.shields.io/badge/Core_Data-147EFB?style=for-the-badge&logo=apple&logoColor=white" alt="Core Data">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-</p>
+**Gastos Compartidos** es mi forma de resolver las cuentas de un grupo: quién pagó, cuánto le corresponde a cada uno y cómo saldar las deudas. Tiene una versión nativa en SwiftUI y otra en Flutter, con persistencia local y pruebas sobre los cálculos.
 
-### Web y backend
+**StitchHub** reúne diseños de interfaces con sus prompts y código. Es el proyecto donde trabajo el lado full stack: Next.js, Supabase, perfiles y publicación de contenido.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
-</p>
+## Proyectos para recorrer
 
-### Flujo de trabajo
+| Proyecto | Qué vas a encontrar | Stack | Ver |
+| --- | --- | --- | --- |
+| [Gastos Compartidos · iOS](https://github.com/luchonicolini/Gastos-Compartidos) | Grupos, gastos, balances y liquidaciones. MVVM y tests de lógica. | SwiftUI · SwiftData · XCTest | [COMPLETAR: enlace de publicación iOS si existe] |
+| [Gastos Compartidos · Flutter](https://github.com/luchonicolini/Gastos-Compartidos-Flutter) | Multimoneda, dinero en centavos y datos locales. | Flutter · Dart · Drift | [COMPLETAR: enlace de publicación Android si existe] |
+| [StitchHub](https://github.com/luchonicolini/StitchHub) | Galería de diseños, perfiles y publicación autenticada. | Next.js · TypeScript · Supabase | [Demo](https://stitch-hub-one.vercel.app) |
+| [Puente](https://github.com/luchonicolini/Puente_Flutter) | Comunicación accesible por texto y servicios de voz. | Flutter · Dart · STT/TTS | [COMPLETAR: demo instalable o publicación de Puente si existe] |
+| [Scriptor Digital](https://github.com/luchonicolini/scriptor-digital) | Sitio de servicios con formularios validados en cliente y servidor. | Next.js · TypeScript · Zod | [Web](https://scriptordigital.vercel.app/) |
+| [SwiftUI Sign Up](https://github.com/luchonicolini/SwiftUI_SignUp) | Ejercicio de interfaz con componentes reutilizables. | SwiftUI · UIKit | [Capturas](https://github.com/luchonicolini/SwiftUI_SignUp#capturas) |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,html,css,js" alt="Git, GitHub, Figma, Visual Studio Code, HTML, CSS y JavaScript">
-</p>
+## Nicolini Design
 
-## 🚀 Proyectos destacados
+Mi negocio de diseño y desarrollo de webs, apps y soluciones digitales. La web presenta landing pages, sitios multipágina, tiendas online y sistemas a medida.
 
-| Proyecto | Enfoque | Stack principal |
-| --- | --- | --- |
-| [**StitchHub**](https://github.com/luchonicolini/StitchHub) | Plataforma comunitaria para compartir diseños, prompts y código. | Next.js, React, TypeScript, Supabase, Tailwind CSS |
-| [**Gastos Compartidos**](https://github.com/luchonicolini/Gastos-Compartidos) | Gestión de gastos, balances y liquidaciones entre grupos. | Swift, SwiftUI, SwiftData, MVVM |
-| [**Scriptor Digital**](https://github.com/luchonicolini/scriptor-digital) | Sitio institucional y captación de consultas para servicios digitales. | Next.js, TypeScript, React, Zod, Vercel |
-| [**SwiftUI SignUp**](https://github.com/luchonicolini/SwiftUI_SignUp) | Prototipo visual de registro con componentes reutilizables. | Swift, SwiftUI, UIKit |
+Trabajo con una idea simple: dejar claro qué se va a construir antes de empezar y mostrar una versión navegable para revisarla. El sitio está hecho con **Next.js, React, TypeScript y Tailwind CSS**.
 
-## 🤝 Contacto
+[Visitar el sitio](https://nicolini-design.vercel.app/) · [Ver el código](https://github.com/luchonicolini/Nicolini-Design)
 
-Estoy disponible para colaborar en aplicaciones iOS, productos mobile y experiencias web.
+## Mi caja de herramientas
 
-<div align="center">
-  <a href="mailto:nicolini.luciano1@gmail.com">
-    <img src="https://img.shields.io/badge/nicolini.luciano1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar un email a Luciano Nicolini">
-  </a>
-</div>
+| iOS | Mobile | Web y backend | Pruebas |
+| --- | --- | --- | --- |
+| Swift · SwiftUI · UIKit | Flutter · Dart | TypeScript · React · Next.js | XCTest · flutter_test |
+| SwiftData · Core Data | Drift / SQLite | Supabase | Playwright · GitHub Actions |
+
+## Experiencia
+
+**Nicolini Design · Emprendimiento propio**
+
+Diseño y desarrollo de sitios web, aplicaciones y soluciones digitales a medida.
+
+[COMPLETAR: experiencia previa o trabajos con clientes]
+
+## A few words in English
+
+I'm Luciano, an iOS developer based in Buenos Aires, Argentina.
+I build apps with Swift and SwiftUI, and also work with Flutter, Next.js and Supabase.
+I run Nicolini Design, my web and app development business.
+Here you'll find my projects, their code and the decisions behind them.
+
+---
+
+¿Tenés una app o una web en mente? [Podemos hablar](mailto:nicolini.luciano1@gmail.com).
+
+<sub>iOS Developer (Swift, SwiftUI) · Full Stack (Next.js, Supabase)</sub>
