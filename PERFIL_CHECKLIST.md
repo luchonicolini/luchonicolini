@@ -9,7 +9,7 @@ No se ha modificado la bio, fijado repositorios ni cambiado su visibilidad.
 
 ## Configuración manual de GitHub
 
-- Fijar los seis proyectos de la tabla del perfil: Gastos-Compartidos, Gastos-Compartidos-Flutter, StitchHub, Puente_Flutter, scriptor-digital y SwiftUI_SignUp.
+- Fijar los seis proyectos de la tabla del perfil: DolarToApp, Gastos-Compartidos, Gastos-Compartidos-Flutter, StitchHub, Puente_Flutter y scriptor-digital.
 - Actualizar la bio a: **iOS Developer (Swift, SwiftUI) | Full Stack: Next.js, Supabase | Argentina**.
 - Mantener el mismo foco en el CV y otros perfiles profesionales.
 - Agregar enlaces oficiales de apps publicadas cuando existan; una política de privacidad o un repo no equivale a una ficha en una tienda.
@@ -18,6 +18,8 @@ No se ha modificado la bio, fijado repositorios ni cambiado su visibilidad.
 - Confirmar la cuenta y los datos del entorno de desarrollo usados por los E2E existentes de StitchHub. Sus credenciales van en secretos de Actions, nunca en el README.
 
 ## Fechas y experiencia
+
+Luciano confirmó que DolarToApp está publicada en App Store. Se incorpora como proyecto destacado; falta añadir el enlace oficial a la ficha. No se agregan fechas, descargas ni valoraciones.
 
 Se retiró «Trabajo con Swift desde 2018»: hay un commit público y código Swift de 2017 en PruebaRepositorio,
 pero eso no confirma el inicio exacto en 2018 ni continuidad de empleo profesional.
@@ -32,6 +34,7 @@ Cuando no exista una publicación, reemplazar el marcador correspondiente por «
 | Repo / archivo | Marcador o información pendiente |
 | --- | --- |
 | Perfil / README | [COMPLETAR: experiencia previa o trabajos con clientes] |
+| Perfil / README | [COMPLETAR: enlace a DolarToApp en App Store] |
 | Perfil / README | [COMPLETAR: enlace de publicación iOS si existe] |
 | Perfil / README | [COMPLETAR: enlace de publicación Android si existe] |
 | Perfil / README | [COMPLETAR: demo instalable o publicación de Puente si existe] |
